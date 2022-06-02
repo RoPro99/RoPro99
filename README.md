@@ -5,8 +5,8 @@
 
 - 👀 I’m interested in C++,Web Development.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on Instagram.  
-- 📫 How to reach me ...Follow me on GitHub
+- 💞️ I’m looking to collaborate on LinkedIn.  
+- 📫 How to reach me Follow me on GitHub
 - !!  Ask me about C++.
 
 <!---
