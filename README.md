@@ -30,3 +30,9 @@
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RoPro99&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rohan-kodag-84b82b209/"><img src="https://img.shields.io/badge/-Rohan%20Kodag-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:rohankodag9999@gmail.com"><img src="https://img.shields.io/badge/-rohankodag9999@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
