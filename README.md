@@ -8,6 +8,7 @@
 - 💞️ I’m looking to collaborate on [LinkedIn-@Rohankodag](https://www.linkedin.com/in/rohan-kodag-84b82b209/).  
 - 📫 How to reach me Follow me on GitHub
 - !!  Ask me about C++.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RoPro99&label=Profile%20views&color=EA047E&style=flat" alt="RoPro" /> </p>
 ### 🛠 &nbsp;Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
